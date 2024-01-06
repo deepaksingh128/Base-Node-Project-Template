@@ -4,9 +4,9 @@ This is a base node js project template, which anyone can use as it has been pre
 
 Lets take a look inside the `src` folder
 
-- `config` -> In this folder anything and everything regarding any configurations or setup of a library or module will be done. For example: setting up `dotenv` so that we can use the environment variables anywhere in a cleaner fathion, this is done in the `ser-config.js`. One more example can be to setup you a logging library that can help you to prepare meaningful logs, so configuration for this library should also be done here.
+- `config` -> In this folder anything and everything regarding any configurations or setup of a library or module will be done. For example: setting up `dotenv` so that we can use the environment variables anywhere in a cleaner fashion, this is done in the `ser-config.js`. One more example can be to setup you a logging library that can help you to prepare meaningful logs, so configuration for this library should also be done here.
 
-- `routes` -> In the routes folder, we registeer a route and the corresponding middleware and controllers to it.
+- `routes` -> In the routes folder, we register a route and the corresponding middleware and controllers to it.
 
 - `middlewares` -> they are just going to intercept the incoming requests where we can write our validators, authenticators, etc.
 
@@ -20,7 +20,7 @@ Lets take a look inside the `src` folder
 
 ### Setup the project
 
-- Download this template from github an dopen it in your favourite text editor.
+- Download this template from github and open it in your favourite text editor.
 - Go inside the folder path and execute the following command :
 ```
    npm install
